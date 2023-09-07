@@ -1,0 +1,5 @@
+run = "npx @11ty/eleventy --serve"
+onBoot = "npm install"
+
+[nix]
+channel = "stable-22_11"
